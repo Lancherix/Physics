@@ -11,8 +11,76 @@
     flex-direction: column;
     align-items: center;
     width: 100%;
-    height: 100vh;
+    height: 80vh;
     background-image: url('https://i.redd.it/10zutid8u6651.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Home-subhero {
+    display: flex;
+    flex-direction: row;
+    align-items: space-evenly;
+    width: 100%;
+    height: 80vh;
+}
+
+.Home-subsubhero1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    background-image: url('https://i.pinimg.com/736x/ff/ef/19/ffef197c0475d958edb626682350835d.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Home-subsubhero2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    background-image: url('https://i.ibb.co/twQSsWbb/23-09-24-La-belleza-2.png" alt="23-09-24-La-belleza-2');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Home-subsubhero3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 80vh;
+    background-image: url('https://i.redd.it/10zutid8u6651.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Home-subsubhero4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    background-image: url('https://i.pinimg.com/736x/38/c5/74/38c574aac25cad6ca9ca7edbfc7a8c5c.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Home-subsubhero5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    background-image: url('https://i.pinimg.com/736x/d7/03/51/d703511e8771e94e3133bfcf6df0004b.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
