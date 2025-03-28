@@ -4,6 +4,7 @@
     align-items: center;
     width: 100%;
     padding: 0 0 0 0;
+    overflow-x: hidden;
 }
 
 .Home-hero {
@@ -15,8 +16,7 @@
     background-image: url('https://i.redd.it/10zutid8u6651.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
-    overflow-x: hidden;
+    background-position: center; 
 }
 
 .Home-subhero {
